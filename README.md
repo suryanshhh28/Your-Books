@@ -2,6 +2,8 @@
 
 ![image](https://github.com/suryanshhh28/Your-Books/assets/94606338/325dcc3e-b170-4de7-b77c-73908e308bcf)
 
+You can search your favourite book and read it online by clicking on it, using the google's API, this project provides you the best possible results.
+
 ## Available Scripts
 
 In the project directory, you can run:
