@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Your-Books 📖 - Find your favourite books online
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/suryanshhh28/Your-Books/assets/94606338/325dcc3e-b170-4de7-b77c-73908e308bcf)
 
 ## Available Scripts
 
