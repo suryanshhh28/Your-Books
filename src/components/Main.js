@@ -54,7 +54,7 @@ const Main = () => {
             alt="Books"
           />
           <VStack alignItems={"center"} paddingX={"4"}>
-            <Heading fontFamily={"Signika Negative"} letterSpacing={"wide"}>
+            <Heading fontFamily={"Signika Negative"} letterSpacing={"wide"} color={"white"}>
               Search Your Favourite Book📖
             </Heading>
             <HStack width={"100%"} paddingY={"4"}>
@@ -62,7 +62,7 @@ const Main = () => {
                 type="text"
                 placeholder="Enter your book name..."
                 border={"none"}
-                borderBottom={"2px"}
+                borderBottom={"2px solid white"}
                 borderRadius={"0"}
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
