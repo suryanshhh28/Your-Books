@@ -65,6 +65,7 @@ const Main = () => {
                 borderBottom={"2px solid white"}
                 borderRadius={"0"}
                 value={query}
+                color={"white"}
                 onChange={(e) => setQuery(e.target.value)}
               />
               <Button
